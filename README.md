@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Joshi</h1>
 <h3 align="center">I am a Passionate MERN Stack Developer who wants to push the boundaries of technology for betterment.</h3>
 
-- 🌱 I’m currently learning **Websocket in building in a Chat App**
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **REACT,JS,MONGOOSE,EXPRESS,**
 
