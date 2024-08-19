@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Joshi</h1>
 <h3 align="center">I am a Passionate MERN Stack Developer who wants to push the boundaries of technology for betterment.</h3>
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently learning **Redis**
 
 - 💬 Ask me about **REACT,MONGOOSE,EXPRESS,Next**
 
