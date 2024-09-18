@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Fit-Sync (DBMS mini project)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AniketJoshi111](https://github.com/AniketJoshi111)
-
-- 📝 I regularly write articles on [https://aniketjoshi111.hashnode.dev/how-requests-are-handled-in-google-file-system](https://aniketjoshi111.hashnode.dev/how-requests-are-handled-in-google-file-system)
+- 📝 I sometimes write article on [hashnode](https://aniketjoshi111.hashnode.dev/)
 
 - 💬 Ask me about **NextJs ,ExpressJs,React Js, Mysql,DSA,**
 
