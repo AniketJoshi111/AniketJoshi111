@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Joshi</h1>
-<h3 align="center">I am a passionate MERN Stack Developer with a .</h3>
+<h3 align="center">I am a passionate MERN Stack Developer with a enthusiasm to learn cutting edge technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketjoshi111&label=Profile%20views&color=0e75b6&style=flat" alt="aniketjoshi111" /> </p>
 
