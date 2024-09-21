@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketjoshi111&label=Profile%20views&color=0e75b6&style=flat" alt="aniketjoshi111" /> </p>
 
-- 🔭 I’m currently working on **Fit-Sync (DBMS mini project)**
+- 🔭 I’m currently working on **Fit-Sync (DBMS project)**
 
 - 📝 I sometimes write article on [hashnode](https://aniketjoshi111.hashnode.dev/)
 
