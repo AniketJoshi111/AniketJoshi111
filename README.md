@@ -1,3 +1,4 @@
+<img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 <h1 align="center">Hi 👋, I'm Aniket Joshi</h1>
 <h3 align="center">I am a passionate MERN Stack Developer with a enthusiasm to learn cutting edge technologies.</h3>
 
