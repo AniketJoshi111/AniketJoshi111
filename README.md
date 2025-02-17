@@ -1,6 +1,6 @@
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 <h1 align="center">Hi 👋, I'm Aniket Joshi</h1>
-<h3 align="center">I am a passionate MERN Stack Developer with a enthusiasm to learn cutting edge technologies.</h3>
+<h3 align="center">’m a dedicated Software Engineer with a strong passion for Full Stack Web Development, Distributed System and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketjoshi111&label=Profile%20views&color=0e75b6&style=flat" alt="aniketjoshi111" /> </p>
 
